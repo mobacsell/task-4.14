@@ -8,8 +8,8 @@ LICENSE: [MIT](license.md)
 ---
 ### Содержание:
 
-1. Что-то
-2. [Команда git add](contents/add.md)
+1. [Основные сведения о GIT.](contents/about_GIT.md)
+2. [3 состояния файлов в GIT.](contents/state_of_documents.md)
 
 ---
 
