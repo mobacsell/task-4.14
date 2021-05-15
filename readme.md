@@ -12,6 +12,7 @@ LICENSE: [MIT](license.md)
 2. [3 состояния файлов в GIT.](contents/state_of_documents.md)
 3. [Команда **git init**](contents/git_init.md)
 4. [Команда **git add**](contents/git_add.md)
+5. [Команда **git commit**](contents/git_commit.md)
 
 ---
 
