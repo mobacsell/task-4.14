@@ -13,6 +13,7 @@ LICENSE: [MIT](license.md)
 3. [Команда **git init**](contents/git_init.md)
 4. [Команда **git add**](contents/git_add.md)
 5. [Команда **git commit**](contents/git_commit.md)
+6. [Команда **git status**](contents/git_status.md)
 
 ---
 
