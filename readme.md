@@ -14,6 +14,7 @@ LICENSE: [MIT](license.md)
 4. [Команда **git add**](contents/git_add.md)
 5. [Команда **git commit**](contents/git_commit.md)
 6. [Команда **git status**](contents/git_status.md)
+7. [Группа команд **git remote**](contents/git_remote.md)
 
 ---
 
