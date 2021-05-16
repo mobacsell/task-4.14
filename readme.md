@@ -20,6 +20,8 @@ LICENSE: [MIT](license.md)
 10. [Команда **git push**](contents/git_push.md)
 11. [Команда **git log**](contents/git_log.md)
 12. [Команда **git show**](contents/git_show.md)
+13. [Команда **git branch**](contents/git_branch.md)
+14. [Команда **git checkout**](contents/git_checkout.md)
 
 ---
 
