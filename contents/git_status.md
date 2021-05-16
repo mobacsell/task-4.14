@@ -8,7 +8,7 @@
 git status
 ```
 
-Ниже приведен пример выолнения команды ***git status***:
+Ниже приведен пример выполнения команды ***git status***:
 
 ![git status](../assets/git_status.png)
 
