@@ -10,6 +10,6 @@ git log
 
 Ниже приведен пример выполнения команды ***git log***:
 
-![git status](../assets/git_log.png)
+![git log](../assets/git_log.png)
 
 [***Вернуться к оглавлению***](../readme.md)
